@@ -61,7 +61,7 @@ A Verified Partner integration guide opens with this header:
 > **◆ Verified Partner integration.** [Tool] sponsors Marketing Skills. This integration
 > is disclosed and vetted for fit; it does **not** change what any skill recommends. It's
 > listed alongside the neutral options for the same job — use it when it's the right fit,
-> not because it's a partner. See [Verified Partners](../REGISTRY.md#verified-partners).
+> not because it's a partner. See [Verified Partners](REGISTRY.md#verified-partners).
 ```
 
 Plus a ◆ marker in [REGISTRY.md](REGISTRY.md) and an entry in [`../partners.json`](../partners.json). A **House tool** additionally states in its guide that the repo author owns the tool.
