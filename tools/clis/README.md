@@ -141,7 +141,7 @@ DOMAINS=$(rewardful affiliates list | jq -r '.data[].email')
 | `amplitude.js` | Analytics | [Amplitude](https://amplitude.com) |
 | `apollo.js` | Data Enrichment | [Apollo.io](https://apollo.io) |
 | `beehiiv.js` | Newsletter | [Beehiiv](https://beehiiv.com) |
-| `brevo.js` | Email/SMS | [Brevo](https://brevo.com) |
+| `brevo.js` | Email/SMS | [Brevo](https://www.brevo.com) |
 | `buffer.js` | Social | [Buffer](https://buffer.com) |
 | `calendly.js` | Scheduling | [Calendly](https://calendly.com) |
 | `clearbit.js` | Data Enrichment | [Clearbit](https://clearbit.com) |
